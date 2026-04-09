@@ -9,7 +9,6 @@ and data science to build smarter industrial systems.
 
 Currently completing a **Master's in Industry 4.0, Digitalization 
 and Applied AI** at [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en) 
-— Spain's #1 engineering university.
 
 ---
 
@@ -98,6 +97,5 @@ demanding industrial environments:
 
 ---
 
-🌍 **Panama · Open to EU opportunities (Spain, Netherlands, Portugal)**  
-🎯 **Targeting:** Industry 4.0 Engineer · Industrial Data Analyst · 
-OT/IT Integration Specialist
+🌍 **Panama · Open to EU opportunities**  
+🎯 **Targeting:** Industry 4.0 Engineer · Industrial Data Analyst · OT/IT Integration Specialist
